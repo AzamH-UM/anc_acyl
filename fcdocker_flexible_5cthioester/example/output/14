@@ -1,0 +1,38 @@
+REMARK  EXECUTING CHARMM SCRIPT FROM PYTHON                                           
+REMARK   DATE:     2/ 2/24     16: 3: 4      CREATED BY USER: azamh                   
+ATOM    392  O1  ANC     1      27.808   4.097  66.966  1.00  0.00      LIGA
+ATOM    393  C1  ANC     1      27.455   4.152  65.785  1.00  0.00      LIGA
+ATOM    394  C2  ANC     1      26.577   5.282  65.211  1.00  0.00      LIGA
+ATOM    395  O2  ANC     1      27.261   6.186  64.350  1.00  0.00      LIGA
+ATOM    396  C3  ANC     1      25.986   6.011  66.446  1.00  0.00      LIGA
+ATOM    397  C4  ANC     1      25.369   4.688  64.510  1.00  0.00      LIGA
+ATOM    398  C5  ANC     1      25.657   3.532  63.546  1.00  0.00      LIGA
+ATOM    399  C6  ANC     1      26.728   2.699  63.783  1.00  0.00      LIGA
+ATOM    400  C7  ANC     1      26.884   1.451  62.878  1.00  0.00      LIGA
+ATOM    401  C8  ANC     1      27.755   1.528  61.647  1.00  0.00      LIGA
+ATOM    402  C9  ANC     1      27.908   2.828  60.892  1.00  0.00      LIGA
+ATOM    403  C10 ANC     1      28.222   2.617  59.414  1.00  0.00      LIGA
+ATOM    404  C11 ANC     1      28.563   3.902  58.596  1.00  0.00      LIGA
+ATOM    405  O3  ANC     1      28.378   0.500  61.306  1.00  0.00      LIGA
+ATOM    406  C12 ANC     1      27.810   3.029  64.818  1.00  0.00      LIGA
+ATOM    407  C13 ANC     1      28.912   2.201  65.059  1.00  0.00      LIGA
+ATOM    408  O4  ANC     1      29.902   2.350  66.014  1.00  0.00      LIGA
+ATOM    409  O5  ANC     1      24.217   5.017  64.821  1.00  0.00      LIGA
+ATOM    410  H1  ANC     1      27.735   6.894  64.847  1.00  0.00      LIGA
+ATOM    411  H2  ANC     1      25.606   5.245  67.170  1.00  0.00      LIGA
+ATOM    412  H3  ANC     1      25.187   6.753  66.159  1.00  0.00      LIGA
+ATOM    413  H4  ANC     1      26.705   6.553  67.118  1.00  0.00      LIGA
+ATOM    414  H5  ANC     1      24.917   3.183  62.825  1.00  0.00      LIGA
+ATOM    415  H6  ANC     1      27.251   0.627  63.464  1.00  0.00      LIGA
+ATOM    416  H7  ANC     1      25.859   1.144  62.535  1.00  0.00      LIGA
+ATOM    417  H8  ANC     1      27.027   3.475  60.963  1.00  0.00      LIGA
+ATOM    418  H9  ANC     1      28.750   3.291  61.374  1.00  0.00      LIGA
+ATOM    419  H10 ANC     1      29.137   2.033  59.256  1.00  0.00      LIGA
+ATOM    420  H11 ANC     1      27.465   1.907  58.995  1.00  0.00      LIGA
+ATOM    421  H12 ANC     1      28.946   3.677  57.559  1.00  0.00      LIGA
+ATOM    422  H13 ANC     1      29.373   4.365  59.206  1.00  0.00      LIGA
+ATOM    423  H14 ANC     1      27.696   4.614  58.479  1.00  0.00      LIGA
+ATOM    424  H15 ANC     1      29.052   1.227  64.524  1.00  0.00      LIGA
+ATOM    425  H16 ANC     1      29.694   3.191  66.429  1.00  0.00      LIGA
+TER     426      ANC      1
+END

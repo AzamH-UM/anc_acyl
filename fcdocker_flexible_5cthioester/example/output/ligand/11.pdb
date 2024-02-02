@@ -1,0 +1,40 @@
+REMARK  TITLE                                                                         
+REMARK  THE DOCKED POSE ID IS 11                                                      
+REMARK  THE TOTAL ENERGY IS 2483.100546                                               
+REMARK   DATE:     2/ 2/24     16: 2:56      CREATED BY USER: azamh                   
+ATOM    392  O1  ANC     1      28.202   4.384  66.891  1.00  0.00      LIGA
+ATOM    393  C1  ANC     1      27.779   4.081  65.760  1.00  0.00      LIGA
+ATOM    394  C2  ANC     1      27.280   5.178  64.801  1.00  0.00      LIGA
+ATOM    395  O2  ANC     1      28.249   5.415  63.783  1.00  0.00      LIGA
+ATOM    396  C3  ANC     1      26.961   6.462  65.609  1.00  0.00      LIGA
+ATOM    397  C4  ANC     1      25.956   4.681  64.272  1.00  0.00      LIGA
+ATOM    398  C5  ANC     1      25.949   3.326  63.612  1.00  0.00      LIGA
+ATOM    399  C6  ANC     1      26.833   2.364  64.028  1.00  0.00      LIGA
+ATOM    400  C7  ANC     1      26.750   0.942  63.526  1.00  0.00      LIGA
+ATOM    401  C8  ANC     1      27.494   0.917  62.229  1.00  0.00      LIGA
+ATOM    402  C9  ANC     1      26.646   0.973  60.986  1.00  0.00      LIGA
+ATOM    403  C10 ANC     1      27.407   0.691  59.664  1.00  0.00      LIGA
+ATOM    404  C11 ANC     1      28.433   1.744  59.155  1.00  0.00      LIGA
+ATOM    405  O3  ANC     1      28.678   0.626  62.221  1.00  0.00      LIGA
+ATOM    406  C12 ANC     1      27.778   2.623  65.171  1.00  0.00      LIGA
+ATOM    407  C13 ANC     1      28.741   1.801  65.708  1.00  0.00      LIGA
+ATOM    408  O4  ANC     1      29.662   2.067  66.706  1.00  0.00      LIGA
+ATOM    409  O5  ANC     1      24.936   5.348  64.387  1.00  0.00      LIGA
+ATOM    410  H1  ANC     1      28.589   6.318  63.851  1.00  0.00      LIGA
+ATOM    411  H2  ANC     1      26.202   6.157  66.392  1.00  0.00      LIGA
+ATOM    412  H3  ANC     1      26.424   7.263  65.028  1.00  0.00      LIGA
+ATOM    413  H4  ANC     1      27.987   6.820  65.987  1.00  0.00      LIGA
+ATOM    414  H5  ANC     1      25.227   3.024  62.827  1.00  0.00      LIGA
+ATOM    415  H6  ANC     1      25.702   0.526  63.455  1.00  0.00      LIGA
+ATOM    416  H7  ANC     1      27.258   0.192  64.191  1.00  0.00      LIGA
+ATOM    417  H8  ANC     1      26.039   1.934  60.813  1.00  0.00      LIGA
+ATOM    418  H9  ANC     1      25.882   0.153  61.032  1.00  0.00      LIGA
+ATOM    419  H10 ANC     1      27.932  -0.264  59.781  1.00  0.00      LIGA
+ATOM    420  H11 ANC     1      26.621   0.503  58.943  1.00  0.00      LIGA
+ATOM    421  H12 ANC     1      28.014   2.768  59.179  1.00  0.00      LIGA
+ATOM    422  H13 ANC     1      29.366   1.585  59.822  1.00  0.00      LIGA
+ATOM    423  H14 ANC     1      28.740   1.504  58.130  1.00  0.00      LIGA
+ATOM    424  H15 ANC     1      28.788   0.798  65.296  1.00  0.00      LIGA
+ATOM    425  H16 ANC     1      29.505   2.999  66.888  1.00  0.00      LIGA
+TER     426      ANC      1
+END
