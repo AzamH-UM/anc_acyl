@@ -11,4 +11,4 @@ python ../add_5cthioester.py \
     --output_energy $output_dir/caze_5cthioester_energy.txt \
     --charmm_lib_dir /home/azamh/charmm/08302023/build_pyCHARMM/install/lib \
     --toppar_dir ../../toppar \
-    > $output_dir/add_5cthioester.log
+    > $output_dir/add_5cthioester.log 2>&1
