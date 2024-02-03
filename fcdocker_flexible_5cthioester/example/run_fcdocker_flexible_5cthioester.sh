@@ -10,11 +10,11 @@ python ../run_fcdocker_flexible_5cthioester.py \
     --C5_segname 5CT1 \
     --workdir $output_dir \
     --num 5 \
-    --copy 5 \
+    --copy 1 \
     --xcen 26.711349487304688 \
     --ycen 4.538999557495117 \
     --zcen 65.70699691772461 \
-    --maxlen 20 \
+    --maxlen 40 \
     --topdir ../../toppar \
     --CHARMM_LIB_DIR /home/azamh/charmm/08302023/build_pyCHARMM/install/lib \
     > "$output_dir"/run_fcdocker_flexible_5cthioester.log 2>&1
