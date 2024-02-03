@@ -29,9 +29,9 @@ parser.add_argument(
     required=True,
 )
 parser.add_argument(
-    "--prosthetic_str",
+    "--C5_str",
     type=abspath,
-    help="Prosthetic RTF file",
+    help="5CThioester RTF file",
     required=True,
 )
 parser.add_argument(
@@ -52,20 +52,17 @@ parser.add_argument(
     required=True,
 )
 
-
-# Optional arguments
-
 parser.add_argument(
     "--toppar_dir",
     type=abspath,
-    default="/home/azamh/acyl/toppar",
     help="Directory containing topology and parameter files",
+    required=True,
 )
 parser.add_argument(
     "--CHARMM_LIB_DIR",
     type=abspath,
-    default="/home/azamh/charmm/08302023/build_pyCHARMM/install/lib",
     help="CHARMM library directory",
+    required=True,
 )
 
 args = parser.parse_args()
@@ -147,7 +144,7 @@ read.rtf(os.path.join(args.toppar_dir, "top_all36_prot.rtf"))
 read.rtf(os.path.join(args.toppar_dir, "top_all36_cgenff.rtf"), append=True)
 read.prm(os.path.join(args.toppar_dir, "par_all36m_prot.prm"), flex=True)
 read.prm(os.path.join(args.toppar_dir, "par_all36_cgenff.prm"), flex=True, append=True)
-charmm_script(f"stream {args.prosthetic_str}")
+charmm_script(f"stream {args.C5_str}")
 charmm_script(f"stream {args.ligand_str}")
 charmm_script(f'stream {os.path.join(args.toppar_dir, "toppar_water_ions.str")}')
 settings.set_bomb_level(0)
