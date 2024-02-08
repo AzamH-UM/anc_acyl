@@ -20,7 +20,9 @@ In most scripts, the CHARMM_LIB_DIR is a required variable is the directory gene
 
 Each folder contains the data generated from modelling/docking and all the data necessary to reproduce our results.
 
-Each folder (except [AlphaFold](https://github.com/google-deepmind/alphafold)), contains an **example** directory. The example directory contains an example script or notebook which should be run with the anc_acyl enviornment and the example directory as the current working directory. All generate output is placed in the output folder. See this folder for example output before running. Each example can be run independently with the provided data.
+Each folder (except [AlphaFold](https://github.com/google-deepmind/alphafold)), contains an **example** directory. The example directory contains an example script or notebook which should be run with the anc_acyl enviornment and the example directory as the current working directory. All generated output is placed in the **output** folder. See this folder for example output and logs before running. Each example can be run independently with the provided data in the repository.
+
+An important note is that scripts use absolute paths and paths for CHARMM should be lowercase and less than 128 characters.
 
 ## Order
 
