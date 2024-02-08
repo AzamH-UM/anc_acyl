@@ -1,0 +1,14 @@
+name: anc_acyl
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - python
+  - openbabel
+  - biotite
+  - seaborn
+  - matplotlib
+  - mdanalysis
+  - scikit-learn
+  - pymol-open-source
