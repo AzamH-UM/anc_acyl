@@ -1,6 +1,7 @@
 name: anc_acyl
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - pandas
   - numpy
